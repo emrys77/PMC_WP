@@ -1,0 +1,9 @@
+.default-neat-grid::after {
+  clear: both;
+  content: "";
+  display: block; }
+
+.default-neat-grid__a-single-column {
+  width: calc(8.33333% - 21.66667px);
+  float: left;
+  margin-left: 20px; }
